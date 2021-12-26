@@ -1,0 +1,3 @@
+This is a kernel module and modifications  I have compiled and created for support TCP/UDP transparent proxy for huawei b612 modem . 
+xt_tproxy.ko modules are compiled with gcc 5 and for kernel 3.10.59. 
+it should work with all firmware versions of B612
